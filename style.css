@@ -1,0 +1,29 @@
+.body{
+    margin: 0;
+}
+.first{
+    display: flex;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+
+}
+.headerR{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.ul{
+    display: flex;
+    list-style: none;
+    gap: 17px;
+}
+.ftwo{
+    display: flex;
+    justify-content: space-between;
+}
+.ftwoR{
+    display: flex;
+}

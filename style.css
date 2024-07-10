@@ -14,7 +14,7 @@ body{
     align-items: center;
     margin: 0;
     min-height: 100vh;
-    flex-wrap: wrap;
+    flex-basis: auto;
 }
 .first{
     display: flex;

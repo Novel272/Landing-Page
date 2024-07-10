@@ -10,7 +10,7 @@ body{
     display: flex;
     background-color: #1f2937;
     flex-direction: column;
-    min-height: 200vh;
+    min-height: 300px;
     margin: 0;
 }
 img{

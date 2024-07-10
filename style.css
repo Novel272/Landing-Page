@@ -18,13 +18,7 @@ body{
     flex-basis: auto;
 }
 .first{
-    display: flex;
     background-color: #1f2937;
-    flex-direction: column;
-    min-height: 300px;
-    min-width: none;
-    flex-wrap: wrap;
-    flex-basis: auto;
 }
 img{
     width: 100px;

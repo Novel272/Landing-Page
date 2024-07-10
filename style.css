@@ -3,6 +3,11 @@
 }
 .first{
     display: flex;
+    background-color: #1f2937;
+}
+img{
+    width: 100px;
+    height: 100px;
 }
 .header{
     display: flex;
@@ -26,6 +31,19 @@
 }
 .ftwoR{
     display: flex;
+}
+.bold{
+    display: flex;
+    font-weight: bold;
+    font-size: 48px;
+}
+.normal{
+    font-size: 18px;   
+}
+.button{
+    background: white;
+    border: 1px solid royalblue;
+    color: white;
 }
 .second{
     display: flex;
@@ -60,6 +78,8 @@
 }
 .fthird{
     display: flex;
+    font-size: 36px;
+    font-weight: bold;
     justify-content: center;
     align-items: center;
 }
@@ -67,4 +87,14 @@
     display: flex;
     justify-content: flex-end;
     align-items: flex-start;
+}
+.fourth{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.fftwo{
+    display: flex;
+    justify-content: space-between;
 }

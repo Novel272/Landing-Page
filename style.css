@@ -31,9 +31,13 @@ img{
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-
+    flex-direction: column;
 }
 .headerR{
+    display: flex;
+    gap: 10px;
+}
+.headerL{
     display: flex;
     gap: 10px;
 }

@@ -29,9 +29,6 @@ img{
 }
 .header{
     display: flex;
-    justify-content: space-between;
-    padding: 16px;
-    gap: 200px;
 }
 .headerR{
     display: flex;

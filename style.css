@@ -63,6 +63,7 @@ ul{
     justify-content: space-between;
     padding: 2px;
     gap: 5px;
+    flex: auto;
 }
 .ftwoL{
     display: flex;

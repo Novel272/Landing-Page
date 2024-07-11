@@ -29,6 +29,9 @@ img{
 }
 .header{
     display: flex;
+    justify-content: space-between;
+    padding: 16px;
+    gap: 200px;
 }
 .headerR{
     display: flex;
@@ -50,9 +53,19 @@ ul{
     justify-content: space-between;
     align-items: center;
     flex-direction: column;
+    padding: 16px;
+    gap: 200px;
 }
 .ftwoR{
     display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.ftwoL{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .bold{
     display: flex;

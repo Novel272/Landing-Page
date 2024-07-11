@@ -11,6 +11,8 @@ body{
     height: 100vh;
     margin: 0;
     overflow: hidden;
+    display: flex;
+    flex-direction: column;
 }
 .first{
     display: flex;
@@ -28,9 +30,7 @@ img{
 .header{
     display: flex;
     justify-content: space-between;
-    gap: 20px;
-    align-items: flex-start;
-    flex-direction: row;
+    padding: 16px;
 }
 .headerR{
     display: flex;
@@ -43,6 +43,8 @@ img{
 .ul{
     display: flex;
     list-style: none;
+    margin: 0;
+    padding: 0;
     gap: 17px;
 }
 .ftwo{

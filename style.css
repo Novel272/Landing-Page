@@ -7,19 +7,18 @@
     padding: 0;
     box-sizing: border-box;
  }
-/*body{
+body{
     display: flex;
     box-sizing: border-box;
     flex-wrap: wrap;
     flex-direction: column;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
-    padding: 1px;
-    margin: 0;
-    min-height: 100vh;
-    flex-basis: auto;
-}*/
+}
 .first{
+    display: flex;
+    width: 100%;
+    height: 25%;
     background-color: #1f2937;
 }
 img{

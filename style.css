@@ -18,6 +18,7 @@ body{
 .first{
     display: flex;
     flex-wrap: wrap;
+    height: 25%;
     justify-content: center;
     align-items: center;
     background-color: #1f2937;

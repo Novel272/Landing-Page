@@ -61,6 +61,7 @@ ul{
     flex-direction: column;
     justify-content: space-between;
     padding: 2px;
+    gap: 5px;
 }
 .ftwoL{
     display: flex;

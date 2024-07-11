@@ -54,7 +54,7 @@ ul{
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    gap: 16px;
+    gap: 6px;
 }
 .ftwoR{
     display: flex;
@@ -72,6 +72,7 @@ ul{
 }
 .bold{
     display: flex;
+    flex-wrap: wrap;
     font-weight: bold;
     font-size: 48px;
 }

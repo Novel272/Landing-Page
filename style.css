@@ -27,10 +27,6 @@ img{
     width: 100px;
     height: 100px;
 }
-img1{
-    width: 300px;
-    height: 300px;
-}
 .header{
     display: flex;
     justify-content: space-between;

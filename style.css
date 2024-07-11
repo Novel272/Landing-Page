@@ -54,15 +54,13 @@ ul{
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    padding: 16px;
 }
 .ftwoR{
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
     justify-content: space-between;
-    padding: 16px;
-    flex: 1 1 0;
+    padding: 2px;
 }
 .ftwoL{
     display: flex;

@@ -61,12 +61,13 @@ ul{
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    flex: 1;
+    flex: 1 1 0;
 }
 .ftwoL{
     display: flex;
     justify-content: center;
     align-items: center;
+    flex: 1 1 0;
 }
 .bold{
     display: flex;
